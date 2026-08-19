@@ -1,0 +1,34 @@
+{
+  "created": "2024-01-01T00:00:00Z",
+  "started": "2024-01-01T00:00:01Z",
+  "ended": "2024-01-01T00:00:02Z",
+  "monitored": [
+    {
+      "arc": 0,
+      "saga": "East Blue",
+      "title": "Romance Dawn",
+      "description": "The beginning of Luffy's journey.",
+      "status": "complete",
+      "episodes": [
+        {
+          "arc": 0,
+          "episode": 1,
+          "title": "Romance Dawn",
+          "description": "Luffy sets out to sea.",
+          "files": {
+            "standard": {
+              "CRC32": "ABC123",
+              "hash": "def456",
+              "magnetURI": "magnet:?xt=urn:btih:example1",
+              "variant": "standard"
+            },
+            "archived": []
+          }
+        }
+      ]
+    }
+  ],
+  "processedEpisodes": 1,
+  "monitoredEpisodes": 1,
+  "status": "DONE"
+}

@@ -1,0 +1,22 @@
+node_modules/
+elm-stuff/
+.direnv/
+dist/
+.elm-test/
+
+# Vite
+*.local
+
+# Nix
+result
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
