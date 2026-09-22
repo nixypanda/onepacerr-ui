@@ -2,9 +2,7 @@
   description = "Web UI for OnePacerr";
 
   inputs = {
-    # 26.05 is the last nixpkgs line supporting the deployment's Intel Mac
-    # development host while still providing the Linux package used in NixOS.
-    nixpkgs.url = "github:NixOS/nixpkgs/nixpkgs-26.05-darwin";
+    nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";
     flake-utils.url = "github:numtide/flake-utils";
   };
 
